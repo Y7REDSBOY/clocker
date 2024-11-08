@@ -1,0 +1,20 @@
+body{
+    background-image: url(Untitled\ Project.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+}
+#clockcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#myclock{
+    font-family: monospace;
+    font-weight: light;
+    text-align: center;
+    font-size: 7rem;
+    color: aliceblue ;
+}
